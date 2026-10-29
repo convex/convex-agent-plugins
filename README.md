@@ -355,13 +355,13 @@ This is a real, Cursor-native mechanism — not just the static SELF-VERIFY RULE
 - [Convex Best Practices](https://docs.convex.dev/understanding/best-practices/)
 - [Schema Design Guide](https://docs.convex.dev/database/schemas)
 - [Authentication Guide](https://docs.convex.dev/auth)
-- [Convex GitHub](https://github.com/get-convex)
+- [Convex GitHub](https://github.com/convex)
 
 ## Contributing
 
 This is the official Convex plugin maintained by the Convex team. For issues or suggestions:
 
-- Report issues on [GitHub](https://github.com/get-convex/convex-agent-plugins)
+- Report issues on [GitHub](https://github.com/convex/convex-agent-plugins)
 - Join the [Convex Discord](https://convex.dev/community)
 - Contact: support@convex.dev
 
